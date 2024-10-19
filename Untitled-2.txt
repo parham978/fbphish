@@ -1,2 +1,2 @@
-clone git https://github.com/0xyg3n/fbphish.git
+https://github.com/0xyg3n/fbphish.git
 
